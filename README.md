@@ -1,6 +1,6 @@
-# CarSpec Finder
+# VinSpec
 
-CarSpec Finder is a lightweight API-driven application that provides detailed vehicle specifications based on **Year**, **Make**, **Model**, or **VIN Number**.
+VinSpec is a lightweight API-driven application that provides detailed vehicle specifications based on **Year**, **Make**, **Model**, or **VIN Number**.
 
 Whether you're decoding a VIN, comparing trims, or retrieving manufacturer specs, this app gives fast and accurate automotive data in an easy-to-use interface.
 
